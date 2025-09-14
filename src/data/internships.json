@@ -1,0 +1,938 @@
+[
+  {
+    "program":"MISIP(Misasa International Student Internship Program)",
+    "organization":"Institute of Planetary Materials",
+    "Country":"Japan",
+    "Duration":"5-6 weeks",
+    "deadline_details":"deadline in march",
+    "link":"https:\/\/www.misasa.okayama-u.ac.jp\/MISIP\/index.php",
+    "notes":"for earth sciences, physics, chemistry, material sciences, or related fields"
+  },
+  {
+    "program":"OIST research internhsip program",
+    "organization":"OIST",
+    "Country":"Japan",
+    "Duration":"3-6 Months",
+    "deadline_details":"twice a year, spring and fall",
+    "link":"https:\/\/www.oist.jp\/admissions\/research-internship\/apply-research-internship",
+    "notes":"multiple fields"
+  },
+  {
+    "program":"NIBB Academic Research Experience Program(AREP)",
+    "organization":"National Institute for Basic Biology",
+    "Country":"Japan",
+    "Duration":"weeks to months",
+    "deadline_details":"april- early may",
+    "link":"https:\/\/www.nibb.ac.jp\/intern\/",
+    "notes":"for biological sciences"
+  },
+  {
+    "program":"NIMS Internship Program",
+    "organization":"National Institute of Material Science",
+    "Country":"Japan",
+    "Duration":"~ 3 months",
+    "deadline_details":"opens in dec",
+    "link":"https:\/\/www.nims.go.jp\/eng\/hr-development\/internship.html",
+    "notes":"for material sciences"
+  },
+  {
+    "program":"SOKENDAI KEK Tsukuba\/J-PARC Summer Student Program",
+    "organization":"SOKENDAI KEK",
+    "Country":"Japan",
+    "Duration":"8 weeks",
+    "deadline_details":"deadline in late feb",
+    "link":"https:\/\/www.kek.jp\/en\/education\/sokendai\/ssp",
+    "notes":null
+  },
+  {
+    "program":"RIKEN CBS Summer Program",
+    "organization":"International Brain Research Organization",
+    "Country":"Japan",
+    "Duration":"8 weeks",
+    "deadline_details":"deadline in january",
+    "link":"https:\/\/ibro.org\/training-opportunity\/riken-cbs-summer-program-2025\/#who-can-apply",
+    "notes":"related to brain research"
+  },
+  {
+    "program":"Riken GRP\/ R-IH Summer Program",
+    "organization":"Guradian Robot Project, RIKEN",
+    "Country":"Japan",
+    "Duration":"8 weeks",
+    "deadline_details":"deadline in mid march",
+    "link":"https:\/\/grp.riken.jp\/en\/news\/20250221\/",
+    "notes":null
+  },
+  {
+    "program":"iCeMS Internship Program",
+    "organization":"Institue for Integrated Cell-Material Sciences, Kyoto University",
+    "Country":"Japan",
+    "Duration":"5 weeks",
+    "deadline_details":"deadline in mid march",
+    "link":"https:\/\/www.icems.kyoto-u.ac.jp\/en\/news\/10442\/",
+    "notes":"for cell biology, chemistry, material sciences and mathematics"
+  },
+  {
+    "program":"Utokyo Amgen Scholars Program",
+    "organization":"University of Tokyo",
+    "Country":"Japan",
+    "Duration":"8 weeks",
+    "deadline_details":"opening in nov 2025",
+    "link":"https:\/\/www.u-tokyo.ac.jp\/en\/prospective-students\/amgen_program.html",
+    "notes":null
+  },
+  {
+    "program":"International Summer Program (ISP)",
+    "organization":"University of Osaka",
+    "Country":"Japan",
+    "Duration":"6 weeks",
+    "deadline_details":"deadline in mid jan",
+    "link":"https:\/\/www.sci.osaka-u.ac.jp\/en\/international-summer-program-isp\/",
+    "notes":null
+  },
+  {
+    "program":"Internship at IIJ Research Laboratory, Tokyo",
+    "organization":"IIJ Research Laboratory",
+    "Country":"Japan",
+    "Duration":"2 months",
+    "deadline_details":"deadline is in january",
+    "link":"https:\/\/www.iijlab.net\/en\/career\/internship.html",
+    "notes":null
+  },
+  {
+    "program":"UTSIP Kashiwa",
+    "organization":"University of Tokyo",
+    "Country":"Japan",
+    "Duration":"7 weeks",
+    "deadline_details":"deadline in mid jan",
+    "link":"https:\/\/www.ilo.k.u-tokyo.ac.jp\/summer_en",
+    "notes":"internship opportunity in the fields of natural sciences and social sciences"
+  },
+  {
+    "program":"SOKENDAI Orientation for Internationa Students",
+    "organization":"Space and Astronautical Science, SOKENDAI",
+    "Country":"Japan",
+    "Duration":"1 month",
+    "deadline_details":"TBD for 2026",
+    "link":"https:\/\/www.isas.jaxa.jp\/sokendai\/e\/admissions\/guidance\/intern.html",
+    "notes":null
+  },
+  {
+    "program":"Research Exchange\/Laboratory Internship Program",
+    "organization":"SIT",
+    "Country":"Japan",
+    "Duration":"1-12 months",
+    "deadline_details":"multiple deadlines for different entry periods",
+    "link":"https:\/\/www.shibaura-it.ac.jp\/en\/study\/exchange_programs\/research.html",
+    "notes":null
+  },
+  {
+    "program":"NIG summer internship",
+    "organization":"National Institute of Genetics, Sokendai",
+    "Country":"Japan",
+    "Duration":"~6 weeks",
+    "deadline_details":"opens in dec ",
+    "link":"https:\/\/www.nig.ac.jp\/jimu\/soken\/intern\/2025\/index.html",
+    "notes":"genetics and related fields"
+  },
+  {
+    "program":"summer NSF-REU\/LANDO\/CSP Program",
+    "organization":"Univeristy of Minnesota",
+    "Country":"USA",
+    "Duration":"8-10 weeks",
+    "deadline_details":"january end",
+    "link":"https:\/\/cse.umn.edu\/chem\/nsf-reulandocsp-program",
+    "notes":"for chemical sciences"
+  },
+  {
+    "program":"Undergraduate Research Program (URP) @CSHL",
+    "organization":"Cold Spring Harbor Laboratory",
+    "Country":"USA",
+    "Duration":"8-10 weeks",
+    "deadline_details":"opens september",
+    "link":"https:\/\/www.cshl.edu\/education\/undergraduate-research-program\/#applying",
+    "notes":"For biological sciences, Genetics, Neuroscience"
+  },
+  {
+    "program":"Dorrit Hoffleit Undergraduate Research Scholarship",
+    "organization":"Yale Univeristy",
+    "Country":"USA",
+    "Duration":null,
+    "deadline_details":"opens mid nov",
+    "link":"https:\/\/astronomy.yale.edu\/undergraduate-program\/research\/dorrit-hoffleit-undergraduate-research-scholarship",
+    "notes":"for astronomy and realted fields"
+  },
+  {
+    "program":"Stowers Summer Scholar Program",
+    "organization":"Stowers Institute for Medical Research",
+    "Country":"USA",
+    "Duration":"8 weeks",
+    "deadline_details":"opens in october",
+    "link":"https:\/\/www.stowers.org\/gradschool\/summer-scholars",
+    "notes":"for medicine and related fields"
+  },
+  {
+    "program":"Caltech SURF",
+    "organization":"Caltech",
+    "Country":"USA",
+    "Duration":"10 weeks",
+    "deadline_details":"deadline in feb",
+    "link":"https:\/\/sfp.caltech.edu\/undergraduate-research\/programs\/surf",
+    "notes":null
+  },
+  {
+    "program":"International Student Summer Research Program",
+    "organization":"University of Rochester",
+    "Country":"USA",
+    "Duration":"2 months",
+    "deadline_details":" applications opens in nov ",
+    "link":"https:\/\/www.sas.rochester.edu\/chm\/undergraduate\/i-scholar.html",
+    "notes":"for chemistry"
+  },
+  {
+    "program":"Summer Research Intitative (SURI)",
+    "organization":"Arizona State University",
+    "Country":"USA",
+    "Duration":"8 weeks",
+    "deadline_details":"late jan\/early feb",
+    "link":"https:\/\/students.engineering.asu.edu\/graduate\/research\/suri\/",
+    "notes":null
+  },
+  {
+    "program":"RIPS(Research in Industrial Projects for Students)",
+    "organization":"IPAM UCLA",
+    "Country":"USA",
+    "Duration":"~ 2 months",
+    "deadline_details":"deadline in nov",
+    "link":"https:\/\/www.ipam.ucla.edu\/programs\/student-research-programs\/",
+    "notes":"for math and related disciplines"
+  },
+  {
+    "program":"Space astronomy summer program",
+    "organization":"Space Telescope Science Institute (STScI)",
+    "Country":"USA",
+    "Duration":"~ 2 Months",
+    "deadline_details":"deadline in january",
+    "link":"https:\/\/www.stsci.edu\/opportunities\/space-astronomy-summer-program",
+    "notes":null
+  },
+  {
+    "program":"Robotics Institute for Summer Scholars",
+    "organization":"CMU",
+    "Country":"USA",
+    "Duration":"11 weeks",
+    "deadline_details":"opens in nov 2025",
+    "link":"https:\/\/riss.ri.cmu.edu\/",
+    "notes":null
+  },
+  {
+    "program":"MBARI summer internship",
+    "organization":"Monterey Bay Aquarium Research institute",
+    "Country":"USA",
+    "Duration":null,
+    "deadline_details":"opening in oct 2025",
+    "link":"https:\/\/www.mbari.org\/about\/careers\/internships\/",
+    "notes":null
+  },
+  {
+    "program":"SURF (Summer Undergraduate Research Fellowship)",
+    "organization":"Stanford",
+    "Country":"USA",
+    "Duration":"8 weeks",
+    "deadline_details":"deadline in feb 2026",
+    "link":"https:\/\/engineering.stanford.edu\/SURF",
+    "notes":null
+  },
+  {
+    "program":"International Student Research Internship Program",
+    "organization":"McKelvey School of Engineering, Washington University",
+    "Country":"USA",
+    "Duration":"10 weeks",
+    "deadline_details":"deadline in Nov",
+    "link":"https:\/\/engineering.washu.edu\/academics\/undergraduate-research\/international-student-research-internship-program.html",
+    "notes":null
+  },
+  {
+    "program":"Research Internship Program",
+    "organization":"Yale University",
+    "Country":"USA",
+    "Duration":null,
+    "deadline_details":"15 dec\/rolling",
+    "link":"https:\/\/cpsc.yale.edu\/research-internship-program",
+    "notes":null
+  },
+  {
+    "program":"Young Scientist program",
+    "organization":"Blue Marbel Institute",
+    "Country":"USA",
+    "Duration":"3 months",
+    "deadline_details":"march-april",
+    "link":"https:\/\/bmsis.org\/ysp\/",
+    "notes":null
+  },
+  {
+    "program":"REYES UC berkely",
+    "organization":"UC Berkely",
+    "Country":"USA",
+    "Duration":"8 weeks",
+    "deadline_details":"april-may",
+    "link":"https:\/\/physics.berkeley.edu\/visiting-students\/reyes-remote-experience-young-engineers-and-scientists",
+    "notes":null
+  },
+  {
+    "program":"ETH Student Summer research fellowship",
+    "organization":"ETH Zurich",
+    "Country":"Switzerland",
+    "Duration":"~ 8 weeks",
+    "deadline_details":"opens in nov ",
+    "link":"https:\/\/inf.ethz.ch\/studies\/summer-research-fellowship.html",
+    "notes":null
+  },
+  {
+    "program":"ThinkSwiss Research Scholarships",
+    "organization":"Swissnex",
+    "Country":"Switzerland",
+    "Duration":"2-3 months",
+    "deadline_details":"deadline is 31 Jan 2026",
+    "link":"https:\/\/swissnex.org\/india\/thinkswiss\/",
+    "notes":null
+  },
+  {
+    "program":"School of Life Sciences Summer Research Program (SRP)",
+    "organization":"EPFL",
+    "Country":"Switzerland",
+    "Duration":"~8 weeks",
+    "deadline_details":"opens in mid november",
+    "link":"https:\/\/www.epfl.ch\/schools\/sv\/education\/summer-research-program\/",
+    "notes":null
+  },
+  {
+    "program":"EEE -EPFL excellence in engineering",
+    "organization":"EPFL",
+    "Country":"Switzerland",
+    "Duration":"8-12 weeks",
+    "deadline_details":"deadline: 1nov 2025",
+    "link":"https:\/\/eee.epfl.ch\/",
+    "notes":null
+  },
+  {
+    "program":"summer at EPFL",
+    "organization":"EPFL",
+    "Country":"Switzerland",
+    "Duration":"3 months",
+    "deadline_details":"Sunday Closest to 1st December",
+    "link":"https:\/\/summer.epfl.ch\/",
+    "notes":null
+  },
+  {
+    "program":"CERN summer student program",
+    "organization":"CERN",
+    "Country":"Switzerland",
+    "Duration":"8-13 weeks",
+    "deadline_details":"End of January",
+    "link":"https:\/\/home.web.cern.ch\/summer-student-programme",
+    "notes":null
+  },
+  {
+    "program":"CERN openlab summer student program",
+    "organization":"CERN",
+    "Country":"Switzerland",
+    "Duration":"9 weeks",
+    "deadline_details":"deadline in early jan",
+    "link":"https:\/\/openlab.cern\/cern-openlab-summer-student-programme\/",
+    "notes":null
+  },
+  {
+    "program":"CERN technical student program",
+    "organization":"CERN",
+    "Country":"Switzerland",
+    "Duration":"4-12 months",
+    "deadline_details":"TBD",
+    "link":"https:\/\/careers.smartrecruiters.com\/cern\/tech",
+    "notes":null
+  },
+  {
+    "program":"CERN short term internship",
+    "organization":"CERN",
+    "Country":"Switzerland",
+    "Duration":"1-6 months",
+    "deadline_details":"rolling",
+    "link":"https:\/\/jobs.smartrecruiters.com\/CERN\/744000077969880-short-term-internship-2025",
+    "notes":null
+  },
+  {
+    "program":"Summer Undergraduate Resarch (SUR) Program @ UNIL",
+    "organization":"UNIL",
+    "Country":"Switzerland",
+    "Duration":"8 weeks",
+    "deadline_details":"january ",
+    "link":"https:\/\/www.unil.ch\/fbm\/en\/home\/menuinst\/formation\/short-continuing-postgraduate-training\/sur-programme.html",
+    "notes":"for biology and medicine or related discipline"
+  },
+  {
+    "program":"Taiwan International intership program (TIIP)",
+    "organization":"Academia Sinica",
+    "Country":"Taiwan",
+    "Duration":"2 months",
+    "deadline_details":"deadline in dec",
+    "link":"https:\/\/tiip.dia.sinica.edu.tw\/pages\/4048",
+    "notes":null
+  },
+  {
+    "program":"TEEP(Taiwan Experience Education Program)",
+    "organization":"multiple Universities",
+    "Country":"Taiwan",
+    "Duration":"~3-6 months",
+    "deadline_details":"multiple programs with different deadlines",
+    "link":"https:\/\/teep.studyintaiwan.org\/",
+    "notes":null
+  },
+  {
+    "program":"Summer Research Program @ National Tsing Hua University",
+    "organization":"National Tsing Hua University",
+    "Country":"Taiwan",
+    "Duration":"2 months",
+    "deadline_details":"TBD",
+    "link":"https:\/\/eng-en.site.nthu.edu.tw\/",
+    "notes":null
+  },
+  {
+    "program":"ITRI internship program",
+    "organization":"Industrial Teachnology Research Institute",
+    "Country":"Taiwan",
+    "Duration":"varies",
+    "deadline_details":"multiple programs with different deadlines",
+    "link":"https:\/\/itri.applytojob.com\/",
+    "notes":null
+  },
+  {
+    "program":"NSTC IIPP(international Intership pilot program)",
+    "organization":"NSTC",
+    "Country":"Taiwan",
+    "Duration":"varies",
+    "deadline_details":"multiple deadlines",
+    "link":"https:\/\/iipp.stpi.niar.org.tw\/program",
+    "notes":null
+  },
+  {
+    "program":"Laboratory Internship @ National Taiwan University of Science & Technology",
+    "organization":"National Taiwan University of Science & Technology",
+    "Country":"Taiwan",
+    "Duration":"max 6 months",
+    "deadline_details":"3 months before intended period",
+    "link":"https:\/\/oia-r.ntust.edu.tw\/p\/412-1060-8921.php?Lang=en",
+    "notes":"not funded"
+  },
+  {
+    "program":"ASIAA Summer Student Program",
+    "organization":"Academia Sinica Institute of Astronomy and Astrophysics",
+    "Country":"Taiwan",
+    "Duration":"8 weeks",
+    "deadline_details":"feb-march",
+    "link":"https:\/\/www.asiaa.sinica.edu.tw\/outreach\/summerstudent.php",
+    "notes":null
+  },
+  {
+    "program":"ETH Robotics Student Fellowship",
+    "organization":"ETH Zurich",
+    "Country":"Germany",
+    "Duration":"8 weeks",
+    "deadline_details":"TBD",
+    "link":"https:\/\/robotx.ethz.ch\/education\/robotics-student-fellowship.html",
+    "notes":null
+  },
+  {
+    "program":"Student Summer Internship at MPIA",
+    "organization":"Max Planck Insitute for Astronomy",
+    "Country":"Germany",
+    "Duration":"3 months",
+    "deadline_details":"mid jan",
+    "link":"https:\/\/www.mpia.de\/en\/careers\/internships\/summer",
+    "notes":"for astronomy"
+  },
+  {
+    "program":"MPI Internships Computer Science",
+    "organization":"Max-Planck Institute for Informatics, Software Systems, and Security and Privacy",
+    "Country":"Germany",
+    "Duration":"12-14 weeks",
+    "deadline_details":"deadline: 1 nov 2025",
+    "link":"https:\/\/www.cis.mpg.de\/internships\/",
+    "notes":"has 3 institutes under this offering internsips in all areas of computer science"
+  },
+  {
+    "program":"MPI CBS Internships",
+    "organization":"Max Planck Institute for Human Cognitive & Brain Sciences",
+    "Country":"Germany",
+    "Duration":"8-12 weeks",
+    "deadline_details":"rolling",
+    "link":"https:\/\/www.cbs.mpg.de\/career\/internships",
+    "notes":"has multiple departments\/groups related to neuro\/psychology\/brain\/computing"
+  },
+  {
+    "program":"International Summer Internship (MPIIB-ISI)",
+    "organization":"Max-Planck Institute for Infection Biology (MPIIB)",
+    "Country":"Germany",
+    "Duration":"3 months",
+    "deadline_details":"deadline in december",
+    "link":"https:\/\/www.mpiib-berlin.mpg.de\/mpiib-isi",
+    "notes":null
+  },
+  {
+    "program":"Undergraduate Research Opportunities (MtL-URO)",
+    "organization":"Max Planck School \u201cMatter to Life\u201d",
+    "Country":"Germany",
+    "Duration":"10 weeks",
+    "deadline_details":"deadline is 1 oct 2025 for 2026 program",
+    "link":"https:\/\/mattertolife.maxplanckschools.org\/uro-research-internship",
+    "notes":"fields related ro physics, chemistry, biology, informatics, materials science, engineering"
+  },
+  {
+    "program":"Undergraduate Internship Program",
+    "organization":"Max-Planck Institute for Biology of Ageing",
+    "Country":"Germany",
+    "Duration":"summer months",
+    "deadline_details":"opens in october",
+    "link":"https:\/\/www.age.mpg.de\/undergraduates",
+    "notes":"fields of molecular biology, biochemistry, genetics, and cell biology"
+  },
+  {
+    "program":"MPA Internships",
+    "organization":"Max Planck Institute for AstroPhysics",
+    "Country":"Germany",
+    "Duration":"~2-3 months",
+    "deadline_details":"application is 3-4 months before intended period",
+    "link":"https:\/\/www.mpa-garching.mpg.de\/428417\/Internships",
+    "notes":"for astrophysics and related fields"
+  },
+  {
+    "program":"EMBL undergraduate internships",
+    "organization":"European Molecular Biology Laboratory (EMBL)",
+    "Country":"Germany",
+    "Duration":"~8-12 weeks",
+    "deadline_details":"Varies \/ apply by contacting group",
+    "link":"https:\/\/www.embl.org\/careers\/internships\/",
+    "notes":null
+  },
+  {
+    "program":"DESY summer student program",
+    "organization":"DESY",
+    "Country":"Germany",
+    "Duration":"~ 8 weeks",
+    "deadline_details":"TBD",
+    "link":"https:\/\/summerstudents.desy.de\/",
+    "notes":"for physics or realted disciplines"
+  },
+  {
+    "program":"Global Intern Program (GIP) GIST",
+    "organization":"GIST",
+    "Country":"South Korea",
+    "Duration":"8 weeks",
+    "deadline_details":"deadline in feb",
+    "link":"https:\/\/www.gist.ac.kr\/en\/html\/sub07\/0702.html",
+    "notes":null
+  },
+  {
+    "program":"KAI-X research internship, KAIST",
+    "organization":"KAIST",
+    "Country":"South Korea",
+    "Duration":"7 weeks",
+    "deadline_details":"deadline in jan last week\/feb first week",
+    "link":"https:\/\/io.kaist.ac.kr\/board\/board_view.do?menuName=Announcements&guid=88cbfe16-d59b-ef11-941f-2c44fd7df8ba",
+    "notes":null
+  },
+  {
+    "program":"KAIST Visiting Student Researcher Program",
+    "organization":"KAIST",
+    "Country":"South Korea",
+    "Duration":"varies",
+    "deadline_details":"jan, april, july",
+    "link":"https:\/\/io.kaist.ac.kr\/menu\/io.do?mguid=D4CD2D0A-21E5-E511-940C-2C44FD7DF8B9",
+    "notes":"not funded"
+  },
+  {
+    "program":"DGIST Research Internship",
+    "organization":"DGIST",
+    "Country":"South Korea",
+    "Duration":"6 weeks",
+    "deadline_details":"TBD in feb\/mar",
+    "link":"https:\/\/www.dgist.ac.kr\/prog\/intrlInternPrgrm\/en_college\/sub06_02\/main.do",
+    "notes":null
+  },
+  {
+    "program":"SIPGA(Singapore International Pre Gradaute Award)",
+    "organization":"A*STAR",
+    "Country":"Singapore",
+    "Duration":"~ 3months",
+    "deadline_details":"TBD",
+    "link":"https:\/\/www.a-star.edu.sg\/Scholarships\/for-undergraduate-studies\/singapore-international-pre-graduate-award-sipga",
+    "notes":null
+  },
+  {
+    "program":"IRIS(Internship and Research Immersion) @ NUS",
+    "organization":"NUS",
+    "Country":"Singapore",
+    "Duration":"2 months",
+    "deadline_details":"deadline in early march",
+    "link":"https:\/\/cde.nus.edu.sg\/graduate\/iris-nus\/",
+    "notes":null
+  },
+  {
+    "program":"Global Connect Fellowship",
+    "organization":"NTU",
+    "Country":"Singapore",
+    "Duration":"2 months",
+    "deadline_details":"30 sep 2025 for spring intake",
+    "link":"https:\/\/www.ntu.edu.sg\/about-us\/global\/global-connect-fellowship",
+    "notes":null
+  },
+  {
+    "program":"Visiting Student Research Program (VSRP)",
+    "organization":"KAUST",
+    "Country":"Saudi Arabia",
+    "Duration":"3-6 Months",
+    "deadline_details":"All year accepted",
+    "link":"https:\/\/admissions.kaust.edu.sa\/study\/internships",
+    "notes":null
+  },
+  {
+    "program":"KFUPM Inbound research program",
+    "organization":"KFUPM",
+    "Country":"Saudi Arabia",
+    "Duration":"8 weeks",
+    "deadline_details":"deadline in april ",
+    "link":"https:\/\/ri.kfupm.edu.sa\/dr\/opportunities\/students\/undergraduate-students\/inbound-summer-research-program-summer-243",
+    "notes":null
+  },
+  {
+    "program":"Summer Internship Program at Quantum Computing Research Institute",
+    "organization":"Hamad Bin Khalifa University",
+    "Country":"Qatar",
+    "Duration":"8 weeks",
+    "deadline_details":"march",
+    "link":"https:\/\/www.hbku.edu.qa\/en\/academic-events\/QCRI-SIP25",
+    "notes":null
+  },
+  {
+    "program":"UGRIP(Undergraduate Resarch Internship Program)",
+    "organization":"MBZUAI",
+    "Country":"Abu Dhabi",
+    "Duration":"4 weeks",
+    "deadline_details":"opens on 1 jan 2026",
+    "link":"https:\/\/mbzuai.ac.ae\/ugrip\/",
+    "notes":null
+  },
+  {
+    "program":"koc university summer research program",
+    "organization":"Koc University",
+    "Country":"Turkey",
+    "Duration":"~ 2months",
+    "deadline_details":"TBD",
+    "link":"https:\/\/research.ku.edu.tr\/research-outreach\/summer-research\/kusrp\/",
+    "notes":null
+  },
+  {
+    "program":"PURE(Program for Undergraduate Research)",
+    "organization":"Sabanci University",
+    "Country":"Turkey",
+    "Duration":"8 weeks",
+    "deadline_details":"opens in late march",
+    "link":"https:\/\/pure.sabanciuniv.edu\/announcements\/pure-summer-2025-applications-are-now-open",
+    "notes":null
+  },
+  {
+    "program":"ASPIRE(Astrophysics Summer Program for International Research Institute)",
+    "organization":"Anton Pannekoek Institute, University of Amsterdam",
+    "Country":"Netherlands",
+    "Duration":"6 weeks",
+    "deadline_details":"deadline in early march",
+    "link":"https:\/\/aspire.science.uva.nl\/",
+    "notes":null
+  },
+  {
+    "program":"HKU summer research program",
+    "organization":"HKU",
+    "Country":"Hong Kong",
+    "Duration":"10 weeks",
+    "deadline_details":"opens in jan",
+    "link":"https:\/\/gradsch.hku.hk\/news_and_events\/news_and_future_events\/summer-research-programme-2025",
+    "notes":null
+  },
+  {
+    "program":"IVSP HKUST",
+    "organization":"HKUST",
+    "Country":"Hong Kong",
+    "Duration":"2-6 months",
+    "deadline_details":"rolling",
+    "link":"https:\/\/fytgs.hkust.edu.hk\/admissions\/short-term-study\/international-visiting-internship-student-program",
+    "notes":null
+  },
+  {
+    "program":"HKU CDS research internship program",
+    "organization":"HKUST",
+    "Country":"Hong Kong",
+    "Duration":"~6-8 weeks",
+    "deadline_details":"deadline in april-may",
+    "link":"https:\/\/www.cs.hku.hk\/rintern\/",
+    "notes":null
+  },
+  {
+    "program":"CNIO Summer Training Program",
+    "organization":"Spanish National Cancer Research Center",
+    "Country":"Spain",
+    "Duration":"8 weeks",
+    "deadline_details":"check website",
+    "link":"https:\/\/www.cnio.es\/en\/education-and-career-development\/career-development-programmes\/undergraduate-students\/",
+    "notes":"for biomedicine-related or life sciences degree \/cancer research"
+  },
+  {
+    "program":"Talent Program of Internships",
+    "organization":"Computer Vision Center",
+    "Country":"Spain",
+    "Duration":"3-6 months",
+    "deadline_details":"different deadlines for different programs",
+    "link":"https:\/\/www.cvc.uab.es\/internship\/",
+    "notes":"3 programs total"
+  },
+  {
+    "program":"ICIQ summer fellowship",
+    "organization":"ICIQ",
+    "Country":"Spain",
+    "Duration":"2months",
+    "deadline_details":"call info in march",
+    "link":"https:\/\/iciq.org\/careers\/undergraduates\/iciq-summer-fellowships-programme\/",
+    "notes":"for chemistry"
+  },
+  {
+    "program":"BSC international summer HPC internship program",
+    "organization":"Barcelona Supercomputing Center",
+    "Country":"Spain",
+    "Duration":"10 weeks",
+    "deadline_details":"opens in march",
+    "link":"https:\/\/www.bsc.es\/join-us\/excellence-career-opportunities\/bsc-international-summer-hpc-internship-programme",
+    "notes":null
+  },
+  {
+    "program":"FUSEP summer research prgram",
+    "organization":"USTC",
+    "Country":"China",
+    "Duration":"5 weeks",
+    "deadline_details":"early april",
+    "link":"https:\/\/fusep.ustc.edu.cn\/fusep\/",
+    "notes":null
+  },
+  {
+    "program":"USTC research internship program",
+    "organization":"USTC",
+    "Country":"China",
+    "Duration":"3-12 months",
+    "deadline_details":"march end for fall, sep end for spring",
+    "link":"https:\/\/ic.ustc.edu.cn\/en\/v7info.php?Nav_x=51",
+    "notes":"Has registration fees"
+  },
+  {
+    "program":"GripS",
+    "organization":"multiple Universities",
+    "Country":"China",
+    "Duration":"5-6 weeks",
+    "deadline_details":"TBD, early march",
+    "link":"http:\/\/grips.zju.edu.cn\/",
+    "notes":null
+  },
+  {
+    "program":"PKU international summer lab project",
+    "organization":"Peking University",
+    "Country":"China",
+    "Duration":"varies",
+    "deadline_details":"march-april",
+    "link":"https:\/\/www.mse.pku.edu.cn\/en\/info\/1365\/1675.htm",
+    "notes":null
+  },
+  {
+    "program":"Student Advanced Research Training, JINR",
+    "organization":"JINR",
+    "Country":"Russia",
+    "Duration":"6-8 weeks",
+    "deadline_details":"multiple deadlines for different sessions",
+    "link":"https:\/\/students.jinr.ru\/",
+    "notes":null
+  },
+  {
+    "program":"INTEREST JNIR",
+    "organization":"JINR",
+    "Country":"Russia",
+    "Duration":"4-6 weeks",
+    "deadline_details":"multiple deadlines",
+    "link":"https:\/\/interest.jinr.ru\/index.php#projects",
+    "notes":null
+  },
+  {
+    "program":"NSU research internship",
+    "organization":"Novosibirsk State University",
+    "Country":"Russia",
+    "Duration":"3 months",
+    "deadline_details":"october-march",
+    "link":"https:\/\/english.nsu.ru\/admission\/programs\/internships\/#tab_science",
+    "notes":null
+  },
+  {
+    "program":"Computer Science Internships for International Students",
+    "organization":"HSE University",
+    "Country":"Russia",
+    "Duration":"2-6 months",
+    "deadline_details":"applications accepted on rolling basis",
+    "link":"https:\/\/cs.hse.ru\/en\/internships\/",
+    "notes":null
+  },
+  {
+    "program":"Vector Institute Research Intenships",
+    "organization":"Vector Institute",
+    "Country":"Canada",
+    "Duration":"varies",
+    "deadline_details":" varied for different terms",
+    "link":"https:\/\/vectorinstitute.ai\/programs\/research-internships\/",
+    "notes":null
+  },
+  {
+    "program":"MITACS GRI",
+    "organization":"multiple Universities",
+    "Country":"Canada",
+    "Duration":"12 weeks",
+    "deadline_details":"deadline is 17 sep 2025",
+    "link":"https:\/\/www.mitacs.ca\/our-programs\/globalink-research-internship-students\/",
+    "notes":null
+  },
+  {
+    "program":"Undergraduate research award , Institute of Quantum Computing",
+    "organization":"University of Waterloo",
+    "Country":"Canada",
+    "Duration":"12 weeks",
+    "deadline_details":"late december\/early january",
+    "link":"https:\/\/uwaterloo.ca\/institute-for-quantum-computing\/outreach\/useqip\/ura",
+    "notes":null
+  },
+  {
+    "program":"SQA Undergraduate Research Scholarships",
+    "organization":"Sydney Quantum Academy",
+    "Country":"Australia",
+    "Duration":"6 weeks",
+    "deadline_details":"deadline: 8 october 2025",
+    "link":"https:\/\/sydneyquantum.org\/program\/sqa-undergraduate-research-scholarships\/",
+    "notes":null
+  },
+  {
+    "program":"Research Internship @ PSU",
+    "organization":"Prince of Songkla University",
+    "Country":"Thailand",
+    "Duration":"4-6 months",
+    "deadline_details":"deadline in mid feb",
+    "link":"https:\/\/sites.google.com\/psu.ac.th\/sci-ir\/collaborations\/research-internship",
+    "notes":null
+  },
+  {
+    "program":"ESO Internships",
+    "organization":"European Southern Observatory",
+    "Country":"across europe",
+    "Duration":"varies",
+    "deadline_details":"multiple programs with varying deadlines",
+    "link":"https:\/\/recruitment.eso.org\/",
+    "notes":null
+  },
+  {
+    "program":"International Visiting Researcher Programme INESCTEC",
+    "organization":"INESCTEC",
+    "Country":"Portugal",
+    "Duration":"3 months",
+    "deadline_details":"may-june",
+    "link":"https:\/\/www.inesctec.pt\/en\/work-with-us#international-visiting-researcher-programme",
+    "notes":null
+  },
+  {
+    "program":"Research council of Lithuania Student Research Projects",
+    "organization":"Research Council of Lithuania",
+    "Country":"Lithuania",
+    "Duration":"~2-3 months",
+    "deadline_details":"deadline in end april",
+    "link":"https:\/\/lmt.lrv.lt\/en\/research-funding\/career-development-mobility-and-networking-opportunities\/funding-for-students-research-projects-summer-schollarships\/",
+    "notes":null
+  },
+  {
+    "program":"ASTRON summer research program",
+    "organization":"ASTRON\/JIVE",
+    "Country":"Netherlands",
+    "Duration":"10-12 weeks",
+    "deadline_details":"deadline is 31 jan",
+    "link":"https:\/\/www.astron.nl\/education\/summer-research-programme\/",
+    "notes":null
+  },
+  {
+    "program":"IFJ PAN Particle Physics Summer Student Program",
+    "organization":"Institute of Nuclear Physics, Polish Academy of Sciences",
+    "Country":"Poland",
+    "Duration":"4 weeks",
+    "deadline_details":"opens feb\/march",
+    "link":"https:\/\/ppss.ifj.edu.pl\/",
+    "notes":"for physics and related fields"
+  },
+  {
+    "program":"International undergrad summer school, John Innes center",
+    "organization":"John Innes Centre",
+    "Country":"UK",
+    "Duration":"8 weeks",
+    "deadline_details":"mid jan",
+    "link":"https:\/\/www.jic.ac.uk\/training-careers\/summer-schools\/international-undergraduate\/?utm_campaign=Oktopost-EDUCATION+-+International+Undergraduate+Summer+School+2025&utm_content=Oktopost-linkedin&utm_medium=social&utm_source=linkedin",
+    "notes":"for biology and related fields"
+  },
+  {
+    "program":"Summer Intensive Research Internship",
+    "organization":"The University of New Mexico",
+    "Country":"Mexico",
+    "Duration":"8 weeks",
+    "deadline_details":"deadline is early feb",
+    "link":"https:\/\/autonomy.unm.edu\/siri\/index.html",
+    "notes":null
+  },
+  {
+    "program":"UCR(undergraduate complexity research program)",
+    "organization":"Sante fe institute",
+    "Country":"Mexico",
+    "Duration":"10 weeks",
+    "deadline_details":"opening in oct\/nov",
+    "link":"https:\/\/www.santafe.edu\/engage\/learn\/programs\/undergraduate-complexity-research",
+    "notes":null
+  },
+  {
+    "program":"INSAIT  SURF(Summer undergraduate research fellowship)",
+    "organization":"INSAIT",
+    "Country":"Bulgaria",
+    "Duration":"8-12 weeks",
+    "deadline_details":"deadline in late feb\/early march",
+    "link":"https:\/\/insait.ai\/surf\/",
+    "notes":null
+  },
+  {
+    "program":"Aalto Science Institute International Summer Research Program ",
+    "organization":"AScI",
+    "Country":"Finland",
+    "Duration":"3 months",
+    "deadline_details":"opening in early JAN",
+    "link":"https:\/\/www.aalto.fi\/en\/aalto-science-institute-asci\/aalto-science-institute-international-summer-research-programme",
+    "notes":null
+  },
+  {
+    "program":"Year Round Scientific Internship",
+    "organization":"ISTA",
+    "Country":"Austria",
+    "Duration":"upto 1 year",
+    "deadline_details":"year round accepted",
+    "link":"https:\/\/phd.pages.ista.ac.at\/scientific-internships\/",
+    "notes":null
+  },
+  {
+    "program":"ISTernship - ISTA Summer Fellowship",
+    "organization":"ISTA",
+    "Country":"Austria",
+    "Duration":"2-3 months",
+    "deadline_details":"opening in dec 2025",
+    "link":"https:\/\/phd.pages.ist.ac.at\/isternship\/?",
+    "notes":null
+  }
+]
