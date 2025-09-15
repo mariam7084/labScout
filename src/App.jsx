@@ -14,7 +14,7 @@ import About from "./pages/About";
 export default function App() {
   return (
     <>
-      <Analytics />
+      {/* <Analytics /> */}
       <Box minH="100vh" display="flex" flexDirection="column" bgGradient="linear(to-r, gray.900, purple.900)" color="white">
         <Header />
         <Box as="main" flex="1" py={6}>
