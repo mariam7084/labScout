@@ -1,5 +1,4 @@
 // src/App.jsx
-
 import React from "react";
 import { Routes, Route } from "react-router-dom";
 import { Box } from "@chakra-ui/react";
@@ -10,6 +9,7 @@ import Footer from "./components/Footer";
 import Home from "./pages/Home";
 import Internships from "./pages/Internships";
 import About from "./pages/About";
+import Analytics from "./components/Analytics";
 
 export default function App() {
   return (
