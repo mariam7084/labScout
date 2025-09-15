@@ -7,22 +7,36 @@ import { Box, Text } from "@chakra-ui/react";
 import internships from "../data/internships.json";
 
 // Official low-res world map from react-simple-maps docs
-// const GEO_URL = "https://raw.githubusercontent.com/zcreativelabs/react-simple-maps/master/topojson-maps/world-110m.json";
 const GEO_URL = "https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json";
 
+// Manual coordinates for small or misrepresented countries
+// const MANUAL_COORDS = {
+//     "Singapore": [103.8198, 1.3521],       // Singapore lat/lon
+//     "South Korea": [126.9780, 37.5665],    // Seoul, South Korea
+// };
+
+// the above approach does not work for now, will see this later 
 
 /**
- * Small alias map for country names that often differ between your data and topojson property.
- * Add more aliases as you discover mismatches (e.g. "USA" -> "United States of America").
+ * Small alias map for country names that often differ between data and topojson property.
+ * Add more aliases as mismatches are discovered (e.g. "USA" -> "United States of America").
  */
 const COUNTRY_NAME_ALIASES = {
     "USA": "United States of America",
     "United States": "United States of America",
     "UK": "United Kingdom",
     "Abu Dhabi": "United Arab Emirates",
-    "South Korea": "Korea, Republic of",
     "Russia": "Russian Federation",
-    "Netherland": "Netherlands"
+    "Netherland": "Netherlands",
+    "Hong Kong": "Hong Kong SAR China",
+    "Singapore": null, // not present in geoURL beacuse it is too small, prolly
+    "South Korea": "South Korea",
+    // "South Korea": "Republic of Korea",
+
+
+    // Handle special cases
+    "across europe": null, // skip dots for invalid regions
+
 };
 
 export default function WorldMap({ width = 980, height = 420 }) {
@@ -53,38 +67,50 @@ export default function WorldMap({ width = 980, height = 420 }) {
                         const geoName = (geo) => (geo.properties.NAME || geo.properties.ADMIN || geo.properties.name || "").toString();
 
                         // Build markers by matching your country names to geography entries
-                        const markers = Object.keys(countsByCountry).map((country) => {
-                            const normalized = country.toLowerCase();
-                            // try exact match first, then "includes"
-                            let matchedGeo = geographies.find(g => geoName(g).toLowerCase() === normalized);
+                        const markers = Object.keys(countsByCountry)
+                            .map((country) => {
+                                // Normalize via alias first
+                                const alias = COUNTRY_NAME_ALIASES[country];
+                                if (alias === null) {
+                                    // skip entries like "across europe"
+                                    return null;
+                                }
+                                const normalizedCountry = alias || country;
 
-                            if (!matchedGeo) {
-                                matchedGeo = geographies.find(g => geoName(g).toLowerCase().includes(normalized) || normalized.includes(geoName(g).toLowerCase()));
-                            }
+                                // Use normalizedCountry for all comparisons
+                                const normalized = normalizedCountry.toLowerCase().trim();
+                                let matchedGeo = geographies.find(
+                                    (g) => geoName(g).toLowerCase() === normalized
+                                );
 
-                            // try alias mapping
-                            if (!matchedGeo && COUNTRY_NAME_ALIASES[country]) {
-                                const aliasLow = COUNTRY_NAME_ALIASES[country].toLowerCase();
-                                matchedGeo = geographies.find(g => geoName(g).toLowerCase() === aliasLow || geoName(g).toLowerCase().includes(aliasLow));
-                            }
+                                if (!matchedGeo) {
+                                    matchedGeo = geographies.find(
+                                        (g) =>
+                                            geoName(g).toLowerCase().includes(normalized) ||
+                                            normalized.includes(geoName(g).toLowerCase())
+                                    );
+                                }
 
-                            if (!matchedGeo) {
-                                // no geometry found — skip marker (you can add alias mapping to fix)
-                                console.warn(`WorldMap: no geo match for country: "${country}" — add an alias in COUNTRY_NAME_ALIASES if necessary.`);
-                                return null;
-                            }
+                                if (!matchedGeo) {
+                                    console.warn(
+                                        `WorldMap: no geo match for country: "${country}" (normalized to "${normalizedCountry}")`
+                                    );
+                                    return null;
+                                }
 
-                            const centroid = geoCentroid(matchedGeo);
-                            if (!centroid || Number.isNaN(centroid[0])) {
-                                return null;
-                            }
+                                const centroid = geoCentroid(matchedGeo);
+                                if (!centroid || Number.isNaN(centroid[0])) {
+                                    return null;
+                                }
 
-                            return {
-                                country,
-                                coordinates: centroid,
-                                count: countsByCountry[country]
-                            };
-                        }).filter(Boolean);
+                                return {
+                                    country,
+                                    coordinates: centroid,
+                                    count: countsByCountry[country],
+                                };
+                            })
+                            .filter(Boolean);
+
 
                         return (
                             <>
