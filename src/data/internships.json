@@ -10,7 +10,7 @@
   },
   {
     "program":"OIST research internhsip program",
-    "organization":"OIST",
+    "organization":"OIST(OKinawa Institute of Science and Technology",
     "Country":"Japan",
     "Duration":"3-6 Months",
     "deadline_details":"twice a year, spring and fall",
@@ -483,7 +483,7 @@
     "Duration":"10 weeks",
     "deadline_details":"deadline is 1 oct 2025 for 2026 program",
     "link":"https:\/\/mattertolife.maxplanckschools.org\/uro-research-internship",
-    "notes":"fields related ro physics, chemistry, biology, informatics, materials science, engineering"
+    "notes":"fields related to physics, chemistry, biology, informatics, materials science, engineering"
   },
   {
     "program":"Undergraduate Internship Program",
@@ -514,7 +514,7 @@
   },
   {
     "program":"DESY summer student program",
-    "organization":"DESY",
+    "organization":"DESY(Deutsches Elektronen-Synchrotron)",
     "Country":"Germany",
     "Duration":"~ 8 weeks",
     "deadline_details":"TBD",
@@ -621,7 +621,7 @@
     "notes":null
   },
   {
-    "program":"koc university summer research program",
+    "program":"Koc university summer research program",
     "organization":"Koc University",
     "Country":"Turkey",
     "Duration":"~ 2months",
